@@ -26,9 +26,6 @@ condOper(){
   print("$name -> $nameToPrint");
 }
 
-
-
-
 main(){
   // arithOpers(); // 산술 연산자
   condOper(); // 조건 연산자
