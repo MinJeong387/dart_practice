@@ -65,5 +65,4 @@ main(){
 
   print("원본: $numbers");
   print("결과: $filtered");
-
 }
